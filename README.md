@@ -4,11 +4,11 @@
 
 ## About Me
   <ul>
-    <li> <a href= "https://github.com/JosephTLN98" target="_blank"> Personal Portfolio </a>
+    <li> <a href= "https://github.com/JosephTLN98"target="_blank"> Personal Portfolio </a>
         </li>
-    <li> <a href= "https://github.com/JosephTLN98" target="_blank"> GitHub Portfolio </a>
+    <li> <a href= "https://github.com/JosephTLN98"target="_blank"> GitHub Portfolio </a>
         </li>
-    <li> <a href= "https://www.facebook.com/josephtaf98" target="_blank"> Facebook Profile </a>
+    <li> <a href= "https://www.facebook.com/josephtaf98"target="_blank"> Facebook Profile </a>
         </li>
   </ul>
   
